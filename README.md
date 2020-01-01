@@ -1,2 +1,7 @@
 # UCI_BreastCancer_kaggle
-Breast Cancer Wisconsin (Diagnostic) Data Set Kaggle
+
+**Dataset** - Breast Cancer Wisconsin (Diagnostic) Data Set Kaggle
+
+**Jupyter Notebook**
+
+Approach on feature engineering and applying Random Forest Classifier on the UCI Breast Cancer Dataset from kaggle.
